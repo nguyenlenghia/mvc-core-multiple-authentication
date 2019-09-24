@@ -196,8 +196,10 @@ namespace Org.Service
 ```
 
 ##### Documents
++ https://jasonwatmore.com/post/2018/09/08/aspnet-core-21-basic-authentication-tutorial-with-example-api
 + https://stackoverflow.com/questions/45778679/dotnet-core-2-0-authentication-multiple-schemas-identity-cookies-and-jwt
 + https://stackoverflow.com/questions/54260837/multiple-authentication-methods-in-asp-net-core-2-2
 + https://jasonwatmore.com/post/2018/09/08/aspnet-core-21-basic-authentication-tutorial-with-example-api
 + https://medium.com/agilix/asp-net-core-supporting-multiple-authorization-6502eb79f934
 + https://bitoftech.net/2014/06/01/token-based-authentication-asp-net-web-api-2-owin-asp-net-identity/
++ https://squarewidget.com/asp-net-core-2-1-web-api-using-multiple-authentication-schemes/
