@@ -38,10 +38,10 @@ using System.Reflection;
 using System.Security.Claims;
 using System.Text.Encodings.Web;
 using System.Threading.Tasks;
-using ThmApi.ViberService.Domain.Models;
-using ThmApi.ViberService.Domain.Services;
+using Org.Service.Domain.Models;
+using Org.Service.Domain.Services;
 
-namespace ThmApi.ViberService
+namespace Org.Service
 {
     /// <summary>
     /// The class to config the application authentication
